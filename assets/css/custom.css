@@ -1,12 +1,12 @@
-.fixed-img{
+.fixed-img {
     height: 250px;
 }
 
-.custom-dim-box{
+.custom-dim-box {
     min-width: 160px;
     min-height: 80px;
 }
 
-.fix-width-btn{
+.fix-width-btn {
     min-width: 250px;
 }
