@@ -6,3 +6,7 @@
     min-width: 160px;
     min-height: 80px;
 }
+
+.fix-width-btn{
+    min-width: 250px;
+}
