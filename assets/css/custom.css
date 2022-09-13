@@ -1,3 +1,8 @@
 .fixed-img{
     height: 250px;
 }
+
+.custom-dim-box{
+    min-width: 160px;
+    min-height: 80px;
+}
